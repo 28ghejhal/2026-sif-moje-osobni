@@ -1,0 +1,23 @@
+mody:
+
+- Minecraft Coder Pack
+- Forge Mod Loader
+- Minecraft Forge
+- CodeChicken Core
+
+- Damage Indicators
+- GuiAPI
+- mod_BackTools
+- DrZharks CustomSpawner
+- DrZharks MoCreatures Mo
+- Bibliocraft
+- ExtrabiomesXL
+- Inventory Tweaks              done    1.20
+- NEI plugins
+- Soul Shards
+- Thaumcraft
+- Thaumic Tinkerer
+- TrainCraft
+- The twilight Forest           done    1.21
+- Balkons WeaponMod             done    1.26
+- mod_ZanMinimap
