@@ -1,4 +1,4 @@
-import java.util.Scanner;  // Import the Scanner class
+import java.util.Scanner;
 
 
 class Main {
@@ -10,8 +10,11 @@ class Main {
     double celsius = myObj.nextDouble();  
     double kelvin = celsius + 273.15;
     double farenheit = celsius * 9 / 5 + 32;
+
+    Math.round(kelvin);
+    Math.round(farenheit);
     
-    String myStr = "%.2f °C = %.2f °F = %.2f K"; //.2f zaokrouhli dany double na desetina mista
+    String myStr = "%.2f °C = %.2f °F = %.2f K"; //.2f zkrati dany double na desetina mista
     String result = String.format(myStr, celsius, farenheit, kelvin);
     System.out.println(result); 
   }
